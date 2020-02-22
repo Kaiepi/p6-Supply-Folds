@@ -1,0 +1,20 @@
+{
+  "authors" : [
+    "Ben Davies"
+  ],
+  "build-depends" : [ ],
+  "depends" : [ ],
+  "description" : "Alternative fold methods for Supply",
+  "license" : "Artistic-2.0",
+  "name" : "Supply::Folds",
+  "perl" : "6.d",
+  "provides" : {
+    "Supply::Folds" : "lib/Supply/Folds.pm6"
+  },
+  "resources" : [ ],
+  "source-url" : "https://github.com/Kaiepi/p6-Supply-Folds.git",
+  "tags" : [ "supply" ],
+  "test-depends" : [ ],
+  "version" : "0.0.1",
+  "auth" : "github:Kaiepi"
+}
