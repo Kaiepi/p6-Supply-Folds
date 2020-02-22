@@ -1,0 +1,4 @@
+Revision history for Supply::Folds
+
+v0.0.1:
+    - Implement support for Supply.fold and Supply.scan.

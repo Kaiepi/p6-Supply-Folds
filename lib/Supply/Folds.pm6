@@ -1,6 +1,6 @@
 use v6.d;
 use MONKEY-TYPING;
-unit module Supply::Folds;
+unit module Supply::Folds:auth<github:Kaiepi>:ver<0.0.1>:api<0>;
 
 augment class Supply {
     #|[ Performs a fold given an initial value and a callback accepting a
