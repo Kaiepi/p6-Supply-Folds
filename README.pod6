@@ -53,8 +53,8 @@ multi sub parse-payload(Connection::Grammar:D $acc, Str:D $payload --> Connectio
 =head1 DESCRIPTION
 
 Supply::Folds is a library that provides the C<Supply.fold> and C<Supply.scan>
-methods, which can be used as an alternative to C<Supply.produce> and
-C<Supply.reduce>. The main advantage these methods have over those is that they
+methods, which can be used as an alternative to C<Supply.reduce> and
+C<Supply.produce>. The main advantage these methods have over those is that they
 may optionally take an initial value to begin a fold/scan with, rather than
 only working using values emitted by the supply.
 
