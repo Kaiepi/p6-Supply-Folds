@@ -1,5 +1,7 @@
 =begin pod
 
+[![Build Status](https://travis-ci.com/Kaiepi/p6-Supply-Folds.svg?branch=master)](https://travis-ci.com/Kaiepi/p6-Supply-Folds)
+
 =head1 NAME
 
 Supply::Folds - Alternative fold methods for Supply
